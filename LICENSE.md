@@ -1,4 +1,4 @@
-# 
+# Código abierto Firecrawl herramientas. Con procesamiento de baja latencia y análisis de documentos — optimizado para el máximo rendimiento y eficiencia.
 
 
 
